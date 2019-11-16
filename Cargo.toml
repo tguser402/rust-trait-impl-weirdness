@@ -1,0 +1,7 @@
+[package]
+name = "rust-trait-impl-weirdness"
+version = "1.0.0"
+edition = "2018"
+
+[dependencies]
+foo-lib = { path = "foo-lib" }
